@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.ogloszenie {
+    font-family: 'Open Sans';
+    padding: 5px;
+    margin: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.error {
+    color: red;
+}
